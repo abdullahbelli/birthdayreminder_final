@@ -70,17 +70,6 @@ Giriş bilgileri `flutter_secure_storage` kullanılarak cihazda şifreli şekild
 
 ---
 
-## 🛠 Kurulum ve Kullanım
 
-### Gereksinimler
-- Flutter SDK (sürüm 3.x önerilir)
-- Firebase projesi (Android ve/veya iOS için yapılandırılmış)
-- Gerekli API anahtarları (`google-services.json`, `GoogleService-Info.plist`)
 
-### Kurulum Adımları
 
-```bash
-git clone https://github.com/abdullahbelli/birthdayreminder_final.git
-cd birthdayreminder_final
-flutter pub get
-flutter run
