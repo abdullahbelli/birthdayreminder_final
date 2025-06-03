@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1022239079076",
+    "project_id": "dogum-gunu-uygulamasi-df9c4",
+    "storage_bucket": "dogum-gunu-uygulamasi-df9c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022239079076:android:6faa2cfde4165a0ce74431",
+        "android_client_info": {
+          "package_name": "com.example.dogum_gunu_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022239079076-77skmsdt1kdc5ghji6ilrrvn3d5r2mjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dogum_gunu_uygulamasi",
+            "certificate_hash": "50a90c67edccfa77b4adaef59414dd98e5738fd4"
+          }
+        },
+        {
+          "client_id": "1022239079076-sa5j66frcbeejg6dk420jg51ubkjjsc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXJuzedXWhYWnkmrqRWLDOr7kKyFAbAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022239079076-sa5j66frcbeejg6dk420jg51ubkjjsc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022239079076-rru4ikfn6hhdfdm8jg7us4aa5n8qa8ua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dogumGunuUygulamasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
