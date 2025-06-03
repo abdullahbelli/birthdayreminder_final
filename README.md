@@ -96,16 +96,15 @@ Giriş bilgileri `flutter_secure_storage` kullanılarak cihazda şifreli şekild
 - Uygulama mimarisi ve genel işleyişi tasarladı  
 - Flutter ile tüm sayfaların kodlanmasını gerçekleştirdi  
 - Sayfalar arası geçiş, yönlendirme ve login işlemlerini geliştirdi
+- Firebase authentication işlemlerini yaptı
 
 ### 👤 Furkan Kalay
 - Uygulamanın kullanıcı arayüzünü (UI/UX) tasarladı  
 - Doğum günü ekleme ve listeleme fonksiyonlarını geliştirdi  
 - Drawer menüsünü oluşturdu  
 - Uygulamanın testlerini gerçekleştirdi ve hataları giderdi
+- Kullanıcı bilgilerinin supabasede tutulmasını sağladı.
 
-
-
-- 
 
 
 
