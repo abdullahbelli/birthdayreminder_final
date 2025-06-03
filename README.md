@@ -70,6 +70,7 @@ Giriş bilgileri `flutter_secure_storage` kullanılarak cihazda şifreli şekild
 
 ---
 
+![Screenshot 2025-06-03 114458](https://github.com/user-attachments/assets/fbfad636-b9b3-4fd3-8ec2-c57eb8bca329)
 
 
 
