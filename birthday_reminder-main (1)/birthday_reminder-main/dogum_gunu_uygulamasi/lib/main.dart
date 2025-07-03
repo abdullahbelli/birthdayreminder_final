@@ -11,7 +11,7 @@ void main() async {
   try {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyDRXJuzedXWhYWnkmrqRWLDOr7kKyFAbAw",
+        apiKey: "YOUR_KEY",
         appId: "1:1022239079076:android:6faa2cfde4165a0ce74431",
         messagingSenderId: "1022239079076",
         projectId: "dogum-gunu-uygulamasi-df9c4",
@@ -30,7 +30,7 @@ void main() async {
   await Supabase.initialize(
     url: 'https://krrbkyloxzkmlltkrpao.supabase.co',
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtycmJreWxveHprbWxsdGtycGFvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg4NjI3MzQsImV4cCI6MjA2NDQzODczNH0.hV_gSYqIPzVKKvPdnqtr3Y7lloOQq3bO98NL16rD2XE', // KENDİ Supabase ANON KEY'iniz
+        'YOUR_KEY', // KENDİ Supabase ANON KEY'iniz
   );
 
   runApp(const MyApp());
